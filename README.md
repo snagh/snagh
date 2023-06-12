@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snagh
 - 👀 I’m interested mostly in becoming a fullstack developer.
-- 🌱 I’m currently learning javascript at the moment.
+- 🌱 I’m currently learning Java at the moment.
 - 💞️ I’m looking to collaborate in the learning of the community while I will be learning too.
-- 📫 How to reach me: @snaghone (twitter and instagram), and snagh1 on twitch.
+- 📫 How to reach me: @kisametsuki on twitter and @snaghone on instagram, and snagh1 on twitch.
