@@ -1,46 +1,56 @@
-# Anderson Martins
+<div align="center">
 
-### Desenvolvedor Frontend | Soluções Web e Interfaces de Alto Impacto
+# ⚡ Anderson Martins ⚡
+### `Desenvolvedor Frontend | UI/UX & Soluções Web de Alto Impacto`
 
-Sou um desenvolvedor focado em transformar processos de negócios complexos em experiências digitais fluidas, intuitivas e eficientes. Com uma sólida bagagem em Design Gráfico, uno o refinamento visual e a experiência do usuário (UI/UX) à lógica de programação para construir softwares que geram valor real e automatização de ponta.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Transformando+processos+complexos+em+código+limpo;Criador+do+Nexus+%7C+Especialista+React;Unindo+a+estética+do+Design+à+lógica+da+Programação" alt="Typing SVG" />
 
-Atualmente, atuo no desenvolvimento de sistemas web utilizando o ecossistema JavaScript/TypeScript, além de expandir minha atuação para o universo de Game Design.
-
----
-
-### 🚀 Atuação & Projetos Recentes
-
-* 💼 **Desenvolvimento Corporativo:** Criador e mantenedor do **Nexus**, uma aplicação web robusta construída com **React** para automatização de fluxos de demandas e logística hospitalar.
-* 👥 **Projetos Juniores:** Atuando como Desenvolvedor Frontend na **Horizon**, aplicando conceitos ágeis em código real de mercado.
-* 🎮 **Expansão Técnica:** Graduando em **Game Design**, aplicando conceitos de arquitetura, estados complexos e lógica visual avançada.
-
----
-
-### 💻 Minha Caixa de Ferramentas
-
-| **Linguagens & Base** | **Frameworks / Bibliotecas** | **Backend & Ferramentas** |
-| :--- | :--- | :--- |
-| JavaScript (ES6+) | React.js | Node.js |
-| TypeScript | Vue.js | Supabase / PostgreSQL |
-| HTML5 / CSS3 | Next.js | Git & GitHub / Figma |
-| Lógica Computacional | Tailwind CSS | Gerenciamento de Estado |
+<p align="center">
+  <a href="https://www.linkedin.com/in/andersonsnagh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andersonjose.pbs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tecnologias de Domínio
+</div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🧠 Sobre Mim
+
+Sou um desenvolvedor focado em transformar fluxos de dados complexos em experiências digitais fluidas e eficientes. Minha sólida bagagem em **Design Gráfico** me dá um diferencial crítico no ecossistema Frontend: o domínio absoluto da ponte entre o refinamento visual (UI/UX) e a arquitetura de código moderna.
 
 ---
 
-### 📫 Vamos nos Conectar?
+## 🚀 Projetos em Destaque
 
-* **LinkedIn:** [andersonsnagh](https://www.linkedin.com/in/andersonsnagh/)
-* **E-mail:** andersonjose.pbs@gmail.com
+<details>
+<summary>💼 <b>Nexus (Sistema Web Corporativo)</b></summary>
+<br>
+<blockquote>
+Aplicação web robusta construída com <b>React</b> para automação completa de fluxos de demandas e logística hospitalar de grande escala. Reduziu drasticamente processos manuais através de um gerenciamento de estado complexo e arquitetura otimizada.
+</blockquote>
+</details>
+
+<details>
+<summary>🛠️ <b>Interedital (Projeto Autônomo)</b></summary>
+<br>
+<blockquote>
+Plataforma focada em arquitetura de software independente, consumo avançado de APIs REST e gerenciamento de estados customizados. Um laboratório real de engenharia frontend.
+</blockquote>
+</details>
+
+---
+
+## 🛠️ Tecnologias & Nível de Domínio
+
+### 🌐 Frontend & Core
+```javascript
+const habilidades = {
+  JavaScript:  '████████████████████████░░░░░' // 80%
+  TypeScript:  '██████████████████░░░░░░░░░░░' // 60%
+  ReactJS:     '████████████████████████░░░░░' // 80%
+  VueJS:       '██████████████░░░░░░░░░░░░░░░' // 45%
+};
