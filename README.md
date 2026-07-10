@@ -34,5 +34,5 @@ Atualmente, atuo no desenvolvimento de sistemas web utilizando o ecossistema Jav
 
 ---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsnagh&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snagh&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
 </p>
