@@ -1,27 +1,38 @@
 # Anderson Martins
 
-### Desenvolvedor Frontend | Criando interfaces que as pessoas amem usar
+### Desenvolvedor Frontend & Fullstack Web | Soluções Híbridas e Interfaces de Alto Impacto
 
-Sou um desenvolvedor apaixonado por transformar ideias em experiências digitais intuitivas e funcionais. Com um olhar de designer, busco unir a estética visual com a lógica da programação para construir interfaces limpas, eficientes e que geram valor real para o usuário.
+Sou um desenvolvedor focado em transformar processos de negócios complexos em experiências digitais fluidas, intuitivas e eficientes. Com uma sólida bagagem em Design Gráfico, uno o refinamento visual e a experiência do usuário (UI/UX) à lógica de programação para construir softwares que geram valor real e automatização de ponta.
 
-Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScript e construir projetos que desafiem minhas habilidades.
+Atualmente, atuo no desenvolvimento de sistemas web, ferramentas desktop híbridas e soluções escaláveis utilizando o ecossistema JavaScript/TypeScript, além de expandir minha atuação para o universo de Game Design.
 
-### 🚀 Foco Atual
+---
 
-* 🌱 **Estudando:** React, Next.js e aprofundando em TypeScript.
-* 🛠️ **Construindo:** Projetos de portfólio para aplicar conceitos de consumo de APIs REST e gerenciamento de estado.
-* 💬 **Interesses:** Boas práticas de UI/UX, código limpo e metodologias ágeis.
+### 🚀 Atuação & Projetos Recentes
+
+* 💼 **Desenvolvimento Corporativo:** Criador e mantenedor do **Nexus**, uma aplicação web e desktop robusta construída com **React e Electron** para automatização de fluxos de demandas e logística hospitalar.
+* 👥 **Projetos Juniores:** Atuando como Desenvolvedor Frontend na **Horizon (Empresa Júnior)**, aplicando conceitos ágeis em código real de mercado.
+* 🎮 **Expansão Técnica:** Graduando em **Game Design**, aplicando conceitos de arquitetura, estados complexos e lógica visual avançada.
+
+---
 
 ### 💻 Minha Caixa de Ferramentas
 
-| **Linguagens** | **Frameworks / Bibliotecas** | **Ferramentas e Design** |
-| ----------------- | ---------------------------- | ------------------------------ |
-| JavaScript (ES6+) | React                        | Git & GitHub                   |
-| TypeScript        | Next.js                      | Figma                          |
-| HTML5             | Vue.js                       | Node.js                        |
-| CSS3              | Tailwind CSS                 | Metodologias Ágeis (Scrum)     |
+| **Linguagens & Base** | **Frameworks / Bibliotecas** | **Backend & Ferramentas** |
+| :--- | :--- | :--- |
+| JavaScript (ES6+) | React.js / Vue.js | Node.js |
+| TypeScript | Next.js | Supabase / PostgreSQL |
+| HTML5 / CSS3 | Tailwind CSS | Electron (Desktop Apps) |
+| Lógica Computacional | Gerenciamento de Estado | Git & GitHub / Figma |
+
+---
 
 ### 📫 Vamos nos Conectar?
 
 * **LinkedIn:** [andersonsnagh](https://www.linkedin.com/in/andersonsnagh/)
 * **E-mail:** andersonjose.pbs@gmail.com
+
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsnagh&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+</p>
