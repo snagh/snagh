@@ -1,56 +1,47 @@
-<div align="center">
+# Anderson Martins
 
-# ⚡ Anderson Martins ⚡
-### `Desenvolvedor Frontend | UI/UX & Soluções Web de Alto Impacto`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Transformando+processos+complexos+em+código+limpo;Criador+do+Nexus+%7C+Especialista+React;Unindo+a+estética+do+Design+à+lógica+da+Programação" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andersonsnagh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:andersonjose.pbs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### **Desenvolvedor Frontend** | *Unindo a estética do Design à lógica da Programação*
 
 ---
 
-</div>
-
 ## 🧠 Sobre Mim
 
-Sou um desenvolvedor focado em transformar fluxos de dados complexos em experiências digitais fluidas e eficientes. Minha sólida bagagem em **Design Gráfico** me dá um diferencial crítico no ecossistema Frontend: o domínio absoluto da ponte entre o refinamento visual (UI/UX) e a arquitetura de código moderna.
+Sou um desenvolvedor focado em transformar processos complexos e fluxos de dados em interfaces fluidas, intuitivas e eficientes. Minha sólida bagagem em **Design Gráfico** me dá um diferencial crítico no ecossistema Frontend: o domínio absoluto da ponte entre o refinamento visual (UI/UX) e a arquitetura de código moderna.
+
+Atualmente, dedico minha energia ao desenvolvimento de ecossistemas web robustos utilizando JavaScript, TypeScript e React, além de liderar a criação de projetos autorais e independentes.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<details>
-<summary>💼 <b>Nexus (Sistema Web Corporativo)</b></summary>
-<br>
-<blockquote>
-Aplicação web robusta construída com <b>React</b> para automação completa de fluxos de demandas e logística hospitalar de grande escala. Reduziu drasticamente processos manuais através de um gerenciamento de estado complexo e arquitetura otimizada.
-</blockquote>
-</details>
+### 💼 **Nexus** — *Sistema Web Corporativo*
+> Aplicação web robusta construída com **React** para automação completa de fluxos de demandas e logística de grande escala. Reduziu drasticamente processos manuais através de um gerenciamento de estado complexo e arquitetura otimizada.
 
-<details>
-<summary>🛠️ <b>Interedital (Projeto Autônomo)</b></summary>
-<br>
-<blockquote>
-Plataforma focada em arquitetura de software independente, consumo avançado de APIs REST e gerenciamento de estados customizados. Um laboratório real de engenharia frontend.
-</blockquote>
-</details>
+### 🛠️ **Interedital** — *Projeto Autônomo*
+> Plataforma focada em arquitetura de software independente, consumo avançado de APIs REST e gerenciamento de estados customizados. Um ecossistema completo para resolução de problemas reais de engenharia frontend.
 
 ---
 
-## 🛠️ Tecnologias & Nível de Domínio
+## 🛠️ Stack Tecnológica
 
-### 🌐 Frontend & Core
-```javascript
-const habilidades = {
-  JavaScript:  '████████████████████████░░░░░' // 80%
-  TypeScript:  '██████████████████░░░░░░░░░░░' // 60%
-  ReactJS:     '████████████████████████░░░░░' // 80%
-  VueJS:       '██████████████░░░░░░░░░░░░░░░' // 45%
-};
+### **Frontend & Core**
+*   **Linguagens:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+*   **Frameworks & Libs:** React.js, Vue.js, Next.js
+*   **Estilização:** Tailwind CSS, CSS Modules
+
+### **Backend & Ferramentas**
+*   **Infraestrutura:** Node.js, Supabase, PostgreSQL
+*   **Ferramentas:** Git, GitHub, Figma, Linux Mint
+
+---
+
+## 📫 Vamos nos conectar?
+
+*   **LinkedIn:** [in/andersonsnagh](https://www.linkedin.com/in/andersonsnagh/)
+*   **E-mail:** andersonjose.pbs@gmail.com
+
+---
+
+<div align="center">
+  <i>"Transformando lógica complexa em interfaces excepcionais."</i> ☕💻
+</div>
