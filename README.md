@@ -3,7 +3,7 @@
 # Anderson Martins
 
 ### **Software Engineer & Full Stack Developer**
-*Unindo engenharia de software e refinamento visual para criar aplicações escaláveis de ponta a ponta.*
+*Blending robust software engineering and visual refinement to build scalable end-to-end applications.*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andersonsnagh/">
@@ -18,18 +18,18 @@
 
 </div>
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
-Sou um desenvolvedor focado em projetar, codificar e implantar ecossistemas web e soluções digitais completas. Minha sólida experiência prática me permite transitar com naturalidade pelo desenvolvimento de interfaces fluidas e eficientes no **Frontend**, até a modelagem de dados, arquitetura de rotas e segurança no **Backend**. 
+I am a developer focused on designing, coding, and deploying complete web ecosystems and digital solutions. My solid practical experience allows me to seamlessly transition from building smooth, efficient interfaces on the **Frontend** to data modeling, route architecture, and security on the **Backend**.
 
-Com uma forte bagagem de base técnica, utilizo o ecossistema JavaScript e TypeScript para automatizar processos de negócios complexos, otimizar fluxos de dados e entregar softwares robustos que geram impacto real na operação de ponta a ponta.
+With a strong technical foundation, I leverage the JavaScript and TypeScript ecosystem to automate complex business processes, optimize data flows, and deliver robust software that drives real operational impact from end to end.
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <!-- Linguagens -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
@@ -39,7 +39,7 @@ Com uma forte bagagem de base técnica, utilizo o ecossistema JavaScript e TypeS
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   
-  <!-- Backend & Banco -->
+  <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
@@ -47,13 +47,13 @@ Com uma forte bagagem de base técnica, utilizo o ecossistema JavaScript e TypeS
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 💼 **Nexus** — *Sistema Web Corporativo Full Stack*
-> Aplicação corporativa de grande escala desenvolvida com **React** para automatização de rotas, controle de demandas de estoque e fluxos de logística hospitalar. Gerencia estados complexos e otimiza processos internos eliminando tarefas manuais através de arquitetura web sob medida.
+### 💼 **Nexus** — *Full Stack Corporate Web System*
+> A large-scale corporate application developed with **React** to automate routing, track inventory demands, and streamline hospital logistics. It manages complex application states and optimizes internal processes, eliminating manual tasks through a custom-tailored web architecture.
 
-### 🛠️ **Interedital** — *Aplicações e Ferramentas Autônomas*
-> Plataforma independente construída com foco em engenharia de software independente, consumo estruturado de APIs REST, manipulação de bancos de dados relacionais e gerenciamento customizado de fluxos de dados no ecossistema web.
+### 🛠️ **Interedital** — *Independent Tools & Applications*
+> An independent platform built with a focus on core software engineering principles, structured REST API consumption, relational database manipulation, and custom data flow management within the web ecosystem.
 
 ---
 
@@ -70,5 +70,5 @@ Com uma forte bagagem de base técnica, utilizo o ecossistema JavaScript e TypeS
 ---
 
 <div align="center">
-  <i>"Construindo arquiteturas sólidas de ponta a ponta, do banco de dados à interface."</i> ☕💻
+  <i>"Building solid architectures from end to end, from database to interface."</i> ☕💻
 </div>
